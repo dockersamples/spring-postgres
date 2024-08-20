@@ -4,9 +4,9 @@ This repository demonstrates the steps of seamlessly connecting a locally runnin
 
 ## Prerequisite:
 
-- [Download and install OpenJDK](https://www.java.com/en/download/)
-- [Download and install Docker Desktop](https://www.docker.com/products/docker-desktop/)
-- [Download and install Eclipse](https://www.eclipse.org/downloads/download.php)
+- [OpenJDK](https://www.java.com/en/download/)
+- [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+- [Eclipse](https://www.eclipse.org/downloads/download.php)
 
 ## Importing the project to Eclipse
 
